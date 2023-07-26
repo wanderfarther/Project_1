@@ -1,0 +1,26 @@
+Bar Average Fines per Quality Measure analysis:
+	We wanted to know if the average number of fines was relevant to the quality measure rating of the nursing homes. This graph seems skewed to the right a bit, with a large jump at the beginning and then a slower slope down as we progress to the right. This means we have a positive skew. This shows us that yes, the average number of fines do go down as the quality measure of the home goes up, but there is an odd phenomenon of the lowest rated homes having about the same average fines as homes rated a 4. 
+
+--
+
+Box and whisker plot of QM rating vs RN Staffed hours per day analysis:
+	The box for 1 is relativelyt small compared to the other boxes on the chart, which shows that the number of hours a nurse spends with a partient is realtively consistant at a 1 QM Rated nursing home. The other box-and-whiskers are a bit bigger, with 3 and 4 QM Rated homes having the most skewed data with outliers, showing that the time spent with patients is more varied in higher rated homes. 
+	The largest amount of time spent with patients takes place in 4 QM Rated nursing homes, although that data needs to be studies more as there are 2 outliers that could skew the data.
+	A nursing home with a QM rating of 2 and 4 have the most similar medians, although they are skew in different directions. This means that _________????
+
+--
+
+
+Bar graph Staffed Nursing Hours vs Total Fines in Oklahoma Nursing Homes Analysis:
+	We thought that the fewer average hours spent with a patient would mean that there would be a higher number of fines for the nursing home. This graph shows that homes that have 20 - 30 fines spend about the same amount of time with the patients as a home that has 0 - 6 fines. This shows us that the number of hours spent with a patient doesn't effect the total number of fines recieved by a nursing home.  
+
+--
+
+Scatter with regression Staffed Nursing Hours vs Total Fines in Tulsa Analysis:
+	This graph is specific to Tulsa. We wanted to see if there was a a correlation between the number of the staffed Nursing hours to the number of fines a home would get. The correlation between the total fines and the reported RN staffed hours per day is -0.18. This means that there is a weak, negative correlation. The total number of fines is affected negatively based on the total number of hours staffed, but not by a lot. This can be seen by the relatively horizontal linear regression. The p-value of linear trend is 0.54, therefor we can confidently say there is no trend.
+
+--
+
+Box and whisker plot of RN Staffed hours per day vs Number of Fines in Oklahoma analysis:
+	We wanted to see if the number of fines was affected by the length of time a nurse spent with patients each day. There are trwo outliers in the 4-6 fines category. It appears that the median amount of time spent with patients is actually higher in the two larger fine groups. The range of the time spent with patients appears relatively even comparing the lowest number of fine group and the alrgest number of fine group, os it appears that time a nurse spends with a patient per day does not affect the number of fines incured by a nursing home. 
+	
